@@ -44,8 +44,8 @@
      </form>
      <div class="mt-4 text-center">
          <a href={{ route('forgot-password') }} id="forgot-password"
-             class="text-sm text-[#AE2333] hover:underline">Forgot Password?</a> |
-         <a href={{ route('register') }} id="create-account"
-             class="text-sm text-[#2797CD] hover:underline">Create Account</a>
+             class="text-sm text-[#AE2333] hover:underline">Forgot Password?</a>
+         {{-- <a href={{ route('register') }} id="create-account"
+             class="text-sm text-[#2797CD] hover:underline">Create Account</a> --}}
      </div>
  </div>

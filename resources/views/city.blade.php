@@ -16,7 +16,7 @@
 
     <x-country-inside-page.country-banner-section :page="$page" />
 
-    <div class="w-[90%] mx-auto mt-[-5%] z-50">
+    <div class=" mx-auto z-50">
         <x-home.multi-step-form />
     </div>
 

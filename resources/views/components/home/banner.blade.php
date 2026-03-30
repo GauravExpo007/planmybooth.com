@@ -72,8 +72,7 @@
                     </div>
 
                     <!-- Suggestions -->
-                    <ul id="suggestion-box"
-                        class="absolute left-0 right-0 top-[110%] w-full bg-white border border-gray-200 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] z-[9999] 
+                    <ul id="suggestion-box" class="absolute left-0 right-0 top-[110%] w-full bg-white border border-gray-200 rounded-2xl shadow-[0_20px_50px_rgba(0,0,0,0.3)] z-[9999] 
                         max-h-64 overflow-y-auto hidden divide-y divide-gray-100">
                     </ul>
                 </form>
@@ -164,7 +163,7 @@
                         let li = document.createElement('li');
                         li.className = "p-4 hover:bg-gray-100 cursor-pointer flex items-center gap-3 transition-all";
                         li.innerHTML = `<i class="fas fa-map-marker-alt text-[#176B87] text-sm"></i>
-                                       <span class="text-gray-900 font-semibold text-sm">${city.city}</span>`;
+                                                   <span class="text-gray-900 font-semibold text-sm">${city.city}</span>`;
 
                         li.addEventListener("mousedown", (e) => {
                             e.preventDefault();

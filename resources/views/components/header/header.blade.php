@@ -22,7 +22,7 @@
                     </li>
 
                     <li>
-                        <a href="{{ route('register') }}" id="create-account"
+                        <a href="{{ route('contact-us') }}" id="create-account"
                             class="relative overflow-hidden group bg-white px-6 py-2.5 rounded-xl transition-all duration-500 shadow-[0_4px_15px_rgba(255,255,255,0.2)] hover:shadow-[0_8px_25px_rgba(100,204,197,0.4)]">
                             <span
                                 class="relative z-10 font-bold  text-[13px] uppercase tracking-wider text-[#145D76] transition-colors duration-300">
@@ -172,7 +172,7 @@
                             </a>
                             <a href="https://account.planmybooth.com/auth/login"
                                 class="w-full border-2 border-dashed border-[#145D76] text-[#145D76] text-center py-4 rounded-2xl font-bold uppercase tracking-wider">
-                                Vendor Access
+                                Stand Builder Login
                             </a>
                         </div>
                     @endif
