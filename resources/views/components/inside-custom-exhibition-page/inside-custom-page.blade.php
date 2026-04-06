@@ -17,7 +17,7 @@
                             <img src="{{ $standbuilder->logo }}" alt="{{ $standbuilder->title }}"
                                 class="w-full h-fit object-cover rounded-t-lg" />
                                 <img
-                                    class="w-1/3 mx-auto rounded-full absolute -right-8 -top-8 rotate-[45] animate-bounce"
+                                    class="w-1/3 mx-auto rounded-full absolute -left-8 -top-8 rotate-[45] animate-bounce"
                                     src="/assets/icons/gold.png" alt="gold" />
                         </div>
 

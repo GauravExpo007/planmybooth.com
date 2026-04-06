@@ -14,7 +14,7 @@
                     <li class="group">
                         <a href="mailto:enquiry@planmybooth.com"
                             class="flex gap-3 items-center px-4 py-2 rounded-full hover:bg-white/10 transition-all duration-300">
-                            <div class="bg-white/20 p-2 rounded-full group-hover:bg-[#64CCC5] transition-colors">
+                            <div class="flex justify-center">
                                 <i class="fas fa-envelope text-xl"></i>
                             </div>
                             <span class="text-[14px] font-medium tracking-wide">enquiry@planmybooth.com</span>

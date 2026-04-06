@@ -8,7 +8,12 @@
     <div>
         <x-about-us.banner />
         <x-about-us.content />
-        <x-home.multi-step-form />
+        {{-- Multistep form section --}}
+        <div class="bg-[#124E65] py-5 md:py-10">
+            <div class="mx-auto">
+                <x-home.multi-step-form />
+            </div>
+        </div>
     </div>
 
 </x-layout.public>

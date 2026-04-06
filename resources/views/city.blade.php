@@ -16,9 +16,14 @@
 
     <x-country-inside-page.country-banner-section :page="$page" />
 
-    <div class=" mx-auto z-50">
+
+{{-- Multistep form section --}}
+<div class="bg-[#124E65] py-5 md:py-10">
+     <div class=" mx-auto mt-[-120px] relative">
         <x-home.multi-step-form />
     </div>
+</div>
+   
 
     <x-country-inside-page.country-about-section :page="$page" />
     <x-country-inside-page.country-card-section :page="$page" :standbuilders="$standbuilders" />

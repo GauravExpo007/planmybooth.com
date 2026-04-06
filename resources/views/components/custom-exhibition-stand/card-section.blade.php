@@ -9,7 +9,7 @@
                 <div class="relative w-full md:w-1/4 p-5 h-full flex justify-center items-center">
                     <img src="{{ $item['logo'] }}" alt="{{ $item['title'] }}"
                         class="w-fit h-fit object-cover rounded-lg bg-white" />
-                    <img class="w-1/3 mx-auto rounded-full absolute -right-8 top-4 rotate-[45] animate-bounce"
+                    <img class="w-1/3 mx-auto rounded-full absolute -left-8 top-4 rotate-[45] animate-bounce"
                         src="/assets/icons/gold.png" alt="gold" />
                 </div>
 

@@ -242,7 +242,7 @@
     </style>
 @endpush
 
-<div class="bg-[#124E65] py-5 md:py-10">
+<div>
     <div class="form-container">
         <h2
             class="text-xl text-[#124E65] md:text-2xl lg:text-3xl xl:text-4xl font-semibold text-center m-5 w-full md:w-[90%] mx-auto font-serif">

@@ -26,7 +26,7 @@
         </section>
     </div> --}}
     
-    <section class="bg-[#202A30]">
+    <section class="bg-[#CBE2E8]">
         <div class="py-8 px-4 mx-auto lg:py-16 lg:px-6">
 
             <div class="space-y-8 lg:grid lg:grid-cols-3 sm:gap-6 xl:gap-10 lg:space-y-0">

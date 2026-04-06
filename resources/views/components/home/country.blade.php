@@ -32,7 +32,7 @@
         <!-- Vendor Registration Button -->
         <div class="mx-auto text-center p-5 px-16">
             <a href="{{ route('location-we-serve') }}"
-                class="bg-[#176B87] text-white rounded-lg px-8 py-3 font-semibold hover:bg-[#64CCC5] hover:text-black transition duration-500">
+                class="bg-[#176B87] text-white rounded-lg px-8 py-3 font-semibold hover:bg-black  transition duration-500">
                 Explore More
             </a>
         </div>

@@ -1,9 +1,7 @@
 <div class="relative bg-bottom bg-no-repeat bg-fixed font-poppins" id="blogPage"
     style="background-image: url('{{ asset('assets/banner/home_banner.webp') }}');">
     <div
-        class="bg-[#2F556A]/60 flex flex-col mt-[-80px] min-h-[30rem] md:min-h-[35rem] md:flex-row gap-5 py-20 p-5 md:p-10 justify-center items-center">
-
-
+        class="bg-[#2F556A]/60 flex flex-col mt-[-80px] min-h-[40rem] md:min-h-[30rem] md:flex-row gap-5 py-20 p-5 md:pt-10 justify-center items-center">
         <!-- Overlay -->
         <div class="absolute inset-0 bg-gradient-to-br from-black/80 via-black/60 to-black/40"></div>
         <!-- First Section -->

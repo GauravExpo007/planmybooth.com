@@ -12,9 +12,9 @@
       <div class="faq-item border-b">
         <button class="faq-question w-full text-left py-4 text-lg font-semibold text-[#124E65] flex justify-between items-center">
           What services does Plan My Booth offer as an exhibition stand design company?
-          <span class="icon text-[#124E65]">+</span>
+          <span class="icon text-[#124E65]">–</span>
         </button>
-        <div class="faq-answer hidden pb-4 text-gray-700">
+        <div class="faq-answer pb-4 text-gray-700">
           Plan My Booth is a trusted exhibition stand design company that connects clients with proven and verified exhibition stand builders worldwide, enabling seamless collaboration with top-notch exhibition stand contractors. The platform empowers exhibitors to share project specifications—such as booth size, location, budget, and optional files—and receive proposals from industry-leading partners. Clients benefit from custom booth design, AR/LED integration, smart space planning, and full end-to-end project management support.
         </div>
       </div>
@@ -113,7 +113,7 @@
             <li>Efficient matching—submit your project once and receive tailored proposals.</li>
           </ul>
           <div class="mt-1">
-            This creates a trustworthy, efficient, and expert-driven experience that top agencies simply can’t replicate. 
+            This creates a trustworthy, efficient, and expert-driven experience that top agencies simply can't replicate. 
           </div>
         </div>
       </div>

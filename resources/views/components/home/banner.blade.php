@@ -1,5 +1,5 @@
 <div class="relative mt-[-100px] bg-[#F6F6F7] bg-cover bg-center font-[Poppins] overflow-visible"
-    style="background-image: url('/assets/banner/home_banner.webp')">
+    style="background-image: url('https://es-video-hosting.s3.eu-north-1.amazonaws.com/image.png');">
 
     <!-- Overlay -->
     <div class="absolute inset-0 bg-gradient-to-br from-black/80 via-black/60 to-black/40"></div>

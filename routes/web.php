@@ -22,7 +22,7 @@ Route::get('/about-us', function() {
     return view('about-us');
 })->name('about-us');
 
-Route::get('/vendor-registration', function() {
+Route::get('/vendor-plan', function() {
     return view('vendor-registration');
 })->name('vendor-registration');
 

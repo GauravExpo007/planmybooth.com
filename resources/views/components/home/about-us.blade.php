@@ -7,8 +7,7 @@
         </span> across the Globe
     </h2>
     
-    <div class="container mx-auto px-5 md:px-20 grid lg:grid-cols-2 gap-10 md:gap-14 items-center">
-
+    <div class="container mx-auto px-5 md:px-20 grid lg:grid-cols-2 gap-10 md:gap-14 items-center"> 
         <!-- Left Content -->
         <div class="space-y-6 text-gray-700">
             <h2 class="text-[#124E65] text-xl md:text-3xl lg:text-4xl font-semibold font-[Poppins]">
@@ -48,11 +47,11 @@
 
             <div class="flex gap-4 pt-5">
                 <a href="{{ route('about-us') }}"
-                    class="bg-[#176B87] text-white font-semibold px-6 py-2 rounded hover:bg-[#64CCC5] hover:text-black transition duration-500">
+                    class="bg-[#176B87] text-white font-semibold px-6 py-2 rounded hover:bg-black transition duration-500">
                     Learn More
                 </a>
                 <a href="{{ route('contact-us') }}"
-                    class="bg-[#64CCC5] text-black hover:text-white font-semibold px-6 py-2 rounded hover:bg-[#141414] transition duration-500">
+                    class="bg-black hover:bg-[#176B87] text-white font-semibold px-6 py-2 rounded transition duration-500">
                     Explore Services
                 </a>
             </div>

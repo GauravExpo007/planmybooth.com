@@ -5,7 +5,12 @@
     <x-slot name="featured_image"></x-slot>
 
     <x-home.banner />
-    <x-home.multi-step-form />
+    {{-- Multistep form section --}}
+<div class="bg-[#124E65] py-5 md:py-10">
+     <div class=" mx-auto mt-[-100px] relative">
+        <x-home.multi-step-form />
+    </div>
+</div>
     <x-home.about-us />
     <x-home.global-presence-section />
     <x-home.why-choose-us />
